@@ -13,4 +13,4 @@ hello plummy! hello git!
 hello plummy! hello git!
 hello plummy! hello git!
 hello plummy! hello git! master test
-hello plummy! hello git!
+hello plummy! hello git! hot-fix test
